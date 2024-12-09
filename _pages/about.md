@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate in Adaptive robot control at University of Southern Denmark (2025-2028). The project is titled "Adaptive Robot Control for Magnetoactive Soft Materials in Robot Applications". 
+I am a MSCA Doctoral candidate in Adaptive robot control at University of Southern Denmark (2025-2028). The project is titled "Adaptive Robot Control for Magnetoactive Soft Materials in Robot Applications". 
 
 I gained 2 years experience as a Control Engineer at ASM Pacific Technology Hong Kong Ltd. which is a leading semiconductor machine manufacturing organization. The main projects i was involved was feedforward controls for thermal compression bonding heaters, thermal system integration & testing, iterative learning test implementation for turret motors, control architecture development in C++, control UI application development in C++, field tools in Python, and product control support.
 
