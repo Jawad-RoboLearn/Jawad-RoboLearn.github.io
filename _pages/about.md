@@ -13,6 +13,6 @@ redirect_from:
 
 [Robotics Engineer at Yikun] I have worked as a Robotics Integration Development Engineer at Shanghai Yikun, which is a small enterprise in Shanghai, China. The core area of work was manipulators integration and testing including ROS software development, field support, and control engineering. 
 
-[Master's by Research] I recived two Master's by research degrees in the field of Robotics and Control Systems. The former is the M.Phil. in Mechanical Automation Engineering from The Chinese University of Hong Kong and the latter is the MS Control Engineering from Shanghai Jiao Tong University. These years I have publised a total of 5 papers in peer reviewed conferences. 
+[Master's by Research] I recieved two Master's by research degrees in the field of Robotics and Control Systems. The former is the M.Phil. in Mechanical Automation Engineering from The Chinese University of Hong Kong and the latter is the MS Control Engineering from Shanghai Jiao Tong University. These years I have publised a total of 5 papers in peer reviewed conferences. 
 
 ---
